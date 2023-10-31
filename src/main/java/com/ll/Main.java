@@ -9,5 +9,7 @@ public class Main {
         System.out.println("기능개발3");
         System.out.println("완성");
 
+        System.out.println("테스트 후 버그 픽스");
+
     }
 }

@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc6253c4-d733-4c84-b070-53dfd78d6015" name="Changes" comment="" />
+    <list default="true" id="bc6253c4-d733-4c84-b070-53dfd78d6015" name="Changes" comment="완성 및 테스트">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ll/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ll/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +18,66 @@
     </projectState>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "state": "OPEN",
+      "assignee": "gimyojun",
+      "author": "gimyojun"
+    }
+  ],
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "gimyojun",
+    "author": "gimyojun"
+  }
+}]]></component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="e/1" />
+                    <option name="lastUsedInstant" value="1698712019" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1698711898" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="main" />
+      </list>
+    </option>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="ad21635e-24fc-4b8b-8f76-44b8ba8801e4" />
+        <option name="url" value="https://github.com/gimyojun/demo_20231031.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
@@ -32,7 +93,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "e/1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -44,7 +109,74 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698711291105</updated>
+      <workItem from="1698711292281" duration="1199000" />
     </task>
+    <task id="LOCAL-00001" summary="기능개발 중...1">
+      <option name="closed" value="true" />
+      <created>1698711584959</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698711584959</updated>
+    </task>
+    <task id="LOCAL-00002" summary="기능개발 중...2">
+      <option name="closed" value="true" />
+      <created>1698711612148</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698711612148</updated>
+    </task>
+    <task id="LOCAL-00003" summary="수정">
+      <option name="closed" value="true" />
+      <created>1698711630531</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698711630531</updated>
+    </task>
+    <task id="LOCAL-00004" summary="완성 및 테스트">
+      <option name="closed" value="true" />
+      <created>1698711680006</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698711680006</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="기능개발 중...1" />
+    <MESSAGE value="기능개발 중...2" />
+    <MESSAGE value="수정" />
+    <MESSAGE value="완성 및 테스트" />
+    <option name="LAST_COMMIT_MESSAGE" value="완성 및 테스트" />
   </component>
 </project>
