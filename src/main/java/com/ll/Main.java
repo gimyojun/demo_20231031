@@ -7,5 +7,7 @@ public class Main {
         System.out.println("기능개발1");
         System.out.println("기능개발2");
         System.out.println("기능개발3");
+        System.out.println("완성");
+
     }
 }
